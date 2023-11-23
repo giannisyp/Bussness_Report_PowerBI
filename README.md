@@ -1,6 +1,6 @@
-# Report of a fictitious bussness with PowerBI
+# Report of a fictitious business with PowerBI
 
-In this project i follow a powerBI workflow to create an analysis of a fictitious bussness the steps i completed are bellow: 
+In this project i follow a powerBI workflow to create an analysis of a fictitious business the steps i completed are bellow: 
 
 1. Connecting and shaping the data (ETL)
    
