@@ -17,9 +17,7 @@ Basic table transformations in Power Query Editor
 Loading data from Power Query Editor
 
 
-2. Creating a Data Model
-
-(I have disabled the option for powerBI to create the relationships so i can do them manually)
+2. Creating a Data Model (I have disabled the option for powerBI to create the relationships so i can do it manually)
 
 ![photo2](https://github.com/giannisyp/Bussness_Report_PowerBI/assets/119696474/288ca57c-e5a3-4526-85a0-1cd7c2d9a7d2)
 
