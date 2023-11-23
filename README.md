@@ -4,11 +4,12 @@ In this project i follow a powerBI workflow to create an analysis of a fictitiou
 
 1. Connecting and shaping the data (ETL)
    
-   
-![photo1](https://github.com/giannisyp/Bussness_Report_PowerBI/assets/119696474/b7295be4-04bd-44bc-afc4-b157342fb10e)
+Loading the excel Files 
+![photo1](https://github.com/giannisyp/Bussness_Report_PowerBI/assets/119696474/64becc87-d894-4828-8959-369e472ea36d)
 
 
-* Loading the excel files
+
+
 * Basic table transformations
 * Loading data from Power Query Editor
 
