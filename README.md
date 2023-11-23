@@ -4,7 +4,7 @@ In this project i follow a powerBI workflow to create an analysis of a fictitiou
 
 1. Connecting and shaping the data (ETL)
    
-Loading the excel Files 
+Loading the CSV Files 
 
 ![photo1](https://github.com/giannisyp/Bussness_Report_PowerBI/assets/119696474/64becc87-d894-4828-8959-369e472ea36d)
 
